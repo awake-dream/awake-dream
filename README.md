@@ -1,7 +1,5 @@
-## Hi there 👋，I'm Mr.Liucy
+## Hi there 👋，I'm Mr.wang
 
-
-<!-- **liuchenyang0703/liuchenyang0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started :-->
 
 <a href="https://chodocs.cn/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
@@ -65,10 +63,6 @@
 ## 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... -->
 
 
 <p align="center">
